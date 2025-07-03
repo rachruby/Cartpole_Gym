@@ -1,9 +1,3 @@
-"""
-Open AI Gym MountaiCar-v1
-Nick Kaparinos
-2021
-"""
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
